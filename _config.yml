@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Data Science Club
+subtitle: at Rutgers Health
 email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: The Rutgers Date Science Club was re-founded in 2023 in response to the growing interest in data science on Rutgers health campus.The primary objective of the organization is to provide guidance to data science enthusiasts, furnish academic resources, and facilitate hands-on learning and discussions for students interested in the field of data science and related careers. The club boasts a diverse membership with individuals holding varied backgrounds and research experiences, particularly within the interdisciplinary fields of biomedical sciences.
 baseurl: /
 url: https://datascience-rbhs.github.io
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+author: Ahmed Aquib 
+street_address: 185 S Orange Ave, Newark, NJ 07103
+city: Newark
+state: NJ
+zip_code: 07032
 country: United States of America
-phone: (716) 555-5555
+phone: (609) 227-1894
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,14 +22,14 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: datascience-rbhs
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  Google-Plus: 
+  Instagram: datascience_rbhs
+  LinkedIn: 
+  Twitter: 
   Facebook:
-  Slack:
+  Slack: rutgersrbhsda.slack.com
 
 # build settings
 markdown: kramdown
