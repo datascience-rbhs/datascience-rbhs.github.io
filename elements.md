@@ -1,4 +1,4 @@
----
+ ---
 layout: page
 title: Get to know us
 image: assets/images/pic01.jpg
@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Get to Know Us</h1>
 		</header>
 
 <!-- Content -->
@@ -31,7 +31,6 @@ nav-menu: true
 		<h3>Trevor Frederick</h3>
 		<p>Trevor, our Co-Vice President, is a key contributor to the success of our events. His valuable input into organizing activities adds a unique perspective to our initiatives.</p>
 	</div>
-	<!-- Break -->
 	<div class="6u$ 12u$(small)">
 		<h3>Uran Maimekov </h3>
 		<p>Serving as secretaries is our member from Biomedical Engineering Track, play pivotal roles in the technical aspects of our sessions. His expertise extends to running codes live, building tutorials, and ensuring the smooth execution of our technical endeavors.</p>
