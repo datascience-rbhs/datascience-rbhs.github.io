@@ -48,9 +48,10 @@ nav-menu: true
 		<h3>Aishwarya Venkatasubramanian</h3>
 		<p>Aishwarya, our Social Media Chair, keeps everyone in the loop about our events. Her contributions ensure that our community stays informed, engaged, and connected through various social media channels</p>
 	</div>
+<hr class="major" />
+
 <!-- Break -->
 
-<hr class="major" />
 <!-- Elements -->
 <h2 id="elements">Elements</h2>
 <div class="row 200%">
