@@ -1,6 +1,6 @@
  ---
 layout: page
-title: Get to know us
+title: Get to Know Us
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
