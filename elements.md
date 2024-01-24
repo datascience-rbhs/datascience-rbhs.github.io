@@ -23,27 +23,27 @@ nav-menu: true
 		<h3>Geovanni Geukgeuzian</h3>
 		<p>The inception of the club originated from Geovanni Geukgeuzian, the visionary President and Founder. His passion and dedication laid the foundation for the inspiring journey we embark on together."</p>
 	</div>
-	<div class="6u$ 12u$(small)">
+	<div class="6u 12u$(small)">
 		<h3>Ahmed Aquib</h3>
-		<p> The co-founder and vice-president for the club. He is a proficient R programmer who brings enthusiasm and expertise to the realms of data science, data literacy, and science as a whole. His skills and passion contribute significantly to our shared goals and exploration of the data universe..</p>
+		<p>The co-founder and vice-president for the club. He is a proficient R programmer who brings enthusiasm and expertise to the realms of data science, data literacy, and science as a whole. His skills and passion contribute significantly to our shared goals and exploration of the data universe..</p>
 	</div>
-	<div class="6u$ 12u$(small)">
+	<div class="6u 12u$(small)">
 		<h3>Trevor Frederick</h3>
 		<p>Trevor, our Co-Vice President, is a key contributor to the success of our events. His valuable input into organizing activities adds a unique perspective to our initiatives.</p>
 	</div>
-	<div class="6u$ 12u$(small)">
+	<div class="6u 12u$(small)">
 		<h3>Uran Maimekov </h3>
-		<p>Serving as secretaries is our member from Biomedical Engineering Track, play pivotal roles in the technical aspects of our sessions. His expertise extends to running codes live, building tutorials, and ensuring the smooth execution of our technical endeavors.</p>
+		<p>Serving as secretary is our member from Biomedical Engineering Track, play pivotal roles in the technical aspects of our sessions. His expertise extends to running codes live, building tutorials, and ensuring the smooth execution of our technical endeavors.</p>
 	</div>
-	<div class="6u$ 12u$(small)">
+	<div class="6u 12u$(small)">
 		<h3>Issa Funsho Habib</h3>
 		<p>Habib also serves as co-secretary is a Biomedical Engineering student. He has also helped us with the technical aspects of our sessions and promoting and recruiting new members.</p>
 	</div>
-	<div class="6u$ 12u$(small)">
+	<div class="6u 12u$(small)">
 		<h3>Alcina Rodrigues</h3>
 		<p>Alcina, our Treasurer, utilizes her exceptional organizational skills to keep track of our spending and budget. Her meticulous approach ensures financial transparency and responsible management of resources.</p>
 	</div>
- 	<div class="6u$ 12u$(small)">
+ 	<div class="6u 12u$(small)">
 		<h3>Aishwarya Venkatasubramanian</h3>
 		<p>Aishwarya, our Social Media Chair, keeps everyone in the loop about our events. Her contributions ensure that our community stays informed, engaged, and connected through various social media channels</p>
 	</div>
