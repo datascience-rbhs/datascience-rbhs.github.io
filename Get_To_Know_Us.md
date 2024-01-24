@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Get to Know Us
+title: Get_to_Know_Us
 description: The E-Board
 image: assets/images/pic11.jpg
 nav-menu: true
