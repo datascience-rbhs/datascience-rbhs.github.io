@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, Welcome to our Webpage'
+landing-title: 'Shaping Tomorrow's Biomedical Sciences – Join the Movement'
 description: null
 image: null
 author: null
