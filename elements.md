@@ -27,7 +27,7 @@ nav-menu: true
 		<h3>Ahmed Aquib</h3>
 		<p> The co-founder and vice-president for the club. He is a proficient R programmer who brings enthusiasm and expertise to the realms of data science, data literacy, and science as a whole. His skills and passion contribute significantly to our shared goals and exploration of the data universe..</p>
 	</div>
-	<div class="4u 12u$(medium)">
+	<div class="6u$ 12u$(medium)">
 		<h3>Trevor Frederick</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
