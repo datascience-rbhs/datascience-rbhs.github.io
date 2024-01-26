@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Sessions
+description: Past and Planned Events
 image: assets/images/pic10.jpg
 nav-menu: true
 ---
