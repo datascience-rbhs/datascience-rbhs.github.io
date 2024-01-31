@@ -28,11 +28,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Class session: Data download and preprocessing</h3>
+					<h3>Class session 1: Data download and preprocessing</h3>
 				</header>
 				<p>It is important to know how to download and preprocess data in R. Here we discuss various methods...</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="[generic.html](https://htmlpreview.github.io/?https://github.com/datascience-rbhs/Sessions/blob/main/Session1.html)" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -44,9 +44,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Class session 2: R graphics</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>How to plot graphics in R, use ggplot2 and heatmaps</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
