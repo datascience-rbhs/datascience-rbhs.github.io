@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p>It is important to know how to download and preprocess data in R. Here we discuss various methods...</p>
 				<ul class="actions">
-					<li><a href="[generic.html](https://htmlpreview.github.io/?https://github.com/datascience-rbhs/Sessions/blob/main/Session1.html)" class="button">Learn more</a></li>
+					<li><a href="https://htmlpreview.github.io/?https://github.com/datascience-rbhs/Sessions/blob/main/Session1.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
