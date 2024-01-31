@@ -33,7 +33,7 @@ nav-menu: true
 		<p>Trevor, our Co-Vice President, is a key contributor to the success of our events. His valuable input into organizing activities adds a unique perspective to our initiatives.</p>
 	</div>
 	<div class="6u 12u$(small)">
-		<h3>Uran Maimekov </h3>
+		<h3><a href="https://www.linkedin.com/in/uran-maimekov/">Uran Maimekov</a> </h3>
 		<p>Serving as secretary is our member from Biomedical Engineering Track, play pivotal roles in the technical aspects of our sessions. His expertise extends to running codes live, building tutorials, and ensuring the smooth execution of our technical endeavors.</p>
 	</div>
 	<div class="6u 12u$(small)">
